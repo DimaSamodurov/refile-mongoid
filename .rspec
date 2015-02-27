@@ -1,0 +1,3 @@
+-r pry
+--format doc
+--color

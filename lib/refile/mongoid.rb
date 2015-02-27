@@ -1,7 +1,4 @@
+require "refile"
+require "mongoid/document"
 require "refile/mongoid/version"
-
-module Refile
-  module Mongoid
-    # Your code goes here...
-  end
-end
+require "refile/attachment/mongoid"

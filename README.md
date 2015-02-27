@@ -1,6 +1,4 @@
-# Refile::Mongoid integration
-
-Integrate Refile with MongoID ORM.
+# Integrate [Refile](https://github.com/refile/refile) with [Mongoid](https://github.com/mongoid/mongoid).
 
 ## Installation
 
@@ -18,6 +16,15 @@ Or install it yourself as:
 
     $ gem install refile-mongoid
 
+
 ## Usage
 
-The same usage as original Refile with ActiveRecord.
+Se original [Refile](https://github.com/refile/refile) documentation for usage.
+
+You just do not need to create a database migration as attachment id field is defined automatically on the model.
+
+## Testing
+
+    $ rake
+
+
