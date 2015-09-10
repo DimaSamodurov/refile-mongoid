@@ -1,5 +1,7 @@
 # Integrate [Refile](https://github.com/refile/refile) with [Mongoid](https://github.com/mongoid/mongoid).
 
+[![Build Status](https://travis-ci.org/DimaSamodurov/refile-mongoid.svg?branch=master)](https://travis-ci.org/DimaSamodurov/refile-mongoid)
+
 ## Installation
 
 Add this line to your application's Gemfile:
