@@ -1,4 +1,4 @@
 require "refile"
-require "mongoid/document"
+require "mongoid"
 require "refile/mongoid/version"
 require "refile/attachment/mongoid"
